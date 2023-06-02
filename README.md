@@ -2,7 +2,7 @@
 
 This is a project for the CS 210 - Introduction to Data Science course @ Sabancı University. 
 
-![alt text](dir/config/readme.png)
+![Atatürk](config/readme.png)
 
 ## Abstract
 

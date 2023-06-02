@@ -2,6 +2,8 @@
 
 This is a project for the CS 210 - Introduction to Data Science course @ Sabancı University. 
 
+![alt text](dir/config/readme.png)
+
 ## Abstract
 
 Politics in Türkiye is a very complex topic. Investigation of the overall ontribution of political parties to the law-making process is of upmost importance, since political process should not be stagnant. That is why we decided to create a dataset for the data of MP's from the 22th installment to the 27th installment of the TBMM to evaluate MP's performances. Various classifier models will be used to predict MP affiliation, such as being in support of the government or being in opposition, etc.
